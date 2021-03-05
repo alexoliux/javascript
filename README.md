@@ -1,4 +1,7 @@
-32xx1
+
+21dsalas
+
+>>>>>>> branch1
 # Airbnb JavaScript Style Guide() {
 
 *A mostly reasonable approach to JavaScript*
